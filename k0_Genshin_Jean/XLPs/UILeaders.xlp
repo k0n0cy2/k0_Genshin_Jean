@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_K0_JEAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_K0_JEAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_K0_JEAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_K0_JEAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="K0_JEAN_1"/>
+			<m_ObjectName text="K0_JEAN_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="K0_JEAN_4"/>
+			<m_ObjectName text="K0_JEAN_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_K0_JEAN_DIPLO_BG"/>
+			<m_ObjectName text="LEADER_K0_JEAN_DIPLO_BG"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Jean Gunnhildr - Genshin Impact</Name>
+    <Guid>802cdeb8-387d-4a12-90f3-ea26b59d0381</Guid>
+    <ProjectGuid>5611f9e4-9cae-4a5c-88a7-d20cdb0132b0</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Adds Jean as the leader of Mondstadt from Genshin Impact.</Teaser>
+    <Description>Adds Jean as the leader of Mondstadt from Genshin Impact.</Description>
+    <Authors>k0n0</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>k0_Genshin_Jean</AssemblyName>
+    <RootNamespace>k0_Genshin_Jean</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Leader_Jean/Jean_Config.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Core/Civilization_Localization_CN.sql</File><File>Core/Civilization_Localization_EN.sql</File></UpdateText><UpdateText id="NewAction"><File>Leader_Jean/Jean_Localization_CN.sql</File><File>Leader_Jean/Jean_Localization_EN.sql</File></UpdateText><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/Civilization_Config.sql</File><File>Leader_Jean/Jean_Core.sql</File><File>Core/Civilization_UA.sql</File><File>Core/Civilization_UI.sql</File><File>Core/Civilization_UU.sql</File><File>Leader_Jean/Jean_UA.sql</File><File>Leader_Jean/Jean_UI.sql</File><File>Leader_Jean/Jean_Screens.sql</File></UpdateDatabase><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateText id="NewAction"><File>Core/Civilization_Localization_CN.sql</File><File>Leader_Jean/Jean_Localization_CN.sql</File><File>Core/Civilization_Localization_EN.sql</File><File>Leader_Jean/Jean_Localization_EN.sql</File></UpdateText><UpdateDatabase id="NewAction"><Criteria>Expansion2</Criteria><File>Core/Civilization_HistoricMoments.sql</File><File>Leader_Jean/Jean_HistoricMoments.sql</File></UpdateDatabase><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="Expansion2" /></ActionCriteria>]]></ActionCriteriaData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="k0_Genshin_Jean.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core" />
+    <Folder Include="Leader_Jean" />
+    <Folder Include="Artdefs" />
+    <Folder Include="Icons" />
+    <Folder Include="XLPs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Artdefs\LeaderFallbacks.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Artdefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_HistoricMoments.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_Localization_EN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_UA.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_UI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Civilization_UU.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_HistoricMoments.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Agenda.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Colors.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_Localization_EN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_UA.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Leader_Jean\Jean_UI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\CivAtlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\CivHistoricMoments.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\FavHQAtlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\FavKnightAtlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeadAtlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeaderFallbacks.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeadHistoricMoments.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\StatueAtlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\UILeaders.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

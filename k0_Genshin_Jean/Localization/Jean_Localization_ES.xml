@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- mod by k0n0 -->
+<!-- translated by Watermelon! -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_LEADER_K0_JEAN_NAME" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_TRAIT_LEADER_K0_DANDELION_BREEZE_NAME" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_K0_DANDELION_BREEZE_DESCRIPTION" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_BUILDING_K0_JEAN_FAVONIUS_HQ_NAME" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_K0_JEAN_FAVONIUS_HQ_DESCRIPTION" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- agenda -->
+		<Replace Tag="LOC_AGENDA_K0_JEAN_NAME" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_K0_JEAN_DESCRIPTION" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_K0_JEAN_REASON_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_K0_JEAN_REASON_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- load info -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_K0_JEAN" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- diplomacy lines and shit -->
+		<!-- ############################################################## -->
+
+
+		<!-- ## first meeting ############################################# -->
+		<!-- ai greets player -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai invites player to city -->
+		<Replace Tag="LOC_DIPLO_FIRT_MEET_VISIT_RECIPIENT_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai accepts player invitation to city -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai exchange capital -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## greetings ################################################# -->
+		<!-- happy -->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- unhappy -->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## delegation ################################################ -->
+		<!-- ai accepts -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects -->
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai requests -->
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## open borders ############################################## -->
+		<!-- ai accepts -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects -->
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai requests -->
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## friend #################################################### -->
+		<!-- ai accepts -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects -->
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai requests -->
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- player accepts, ai responds -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- player rejects, ai responds -->
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## alliance ################################################## -->
+		<!-- ai requets -->
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## praise/warn ############################################### -->
+		<!-- ai praises -->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai warns -->
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## troops near border ######################################## -->
+		<!-- ai warns  // happy -->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai warns  // unhappy -->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai accepts warning // happy -->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai accepts warning // unhappy -->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects warning, declares war -->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## settling near border ###################################### -->
+		<!-- ai warns player // happy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai warns player // unhappy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai accepts player // happy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai accepts player // unhappy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects player // happy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects player // unhappy -->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## trade ##################################################### -->
+		<!-- player accepts deal // happy -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- player accepts deal // unhappy -->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- player rejects deal // happy -->
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_K0_JEAN_HAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- player rejects deal // unhappy -->
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_K0_JEAN_UNHAPPY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## denounce ################################################## -->
+		<!-- player denounces ai -->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai denounces player -->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## declare war ############################################### -->
+		<!-- player declares war on ai -->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai declares war on player -->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## make peace ################################################ -->
+		<!-- ai accepts -->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai rejects -->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai requests -->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ## defeat #################################################### -->
+		<!-- ai defeated -->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+		<!-- ai defeats player -->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_K0_JEAN_ANY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<!-- ############################################################## -->
+
+
+		<!-- civilopedia and shit -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_K0_JEAN_QUOTE" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_K0_JEAN_TITLE" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_K0_JEAN_SUBTITLE" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_CAPSULE_BODY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_DETAILED_BODY" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_5" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_6" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_7" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_K0_JEAN_CHAPTER_HISTORY_PARA_8" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_K0_JEAN_UU_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_K0_JEAN_UU_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_K0_JEAN_UU_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_K0_JEAN_UU_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text>ES_TEST</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

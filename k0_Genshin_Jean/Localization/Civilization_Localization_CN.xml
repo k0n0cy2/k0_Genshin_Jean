@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- mod by k0n0 -->
+<!-- translated by MeMaus -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_K0_MONDSTADT_NAME" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_K0_MONDSTADT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_K0_MONDSTADT_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_K0_WIND_FREEDOM_NAME" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_K0_WIND_FREEDOM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_IMPROVEMENT_MONDSTADT_STATUE_SEVEN_NAME" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MONDSTADT_STATUE_SEVEN_DECRIPTION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_UNIT_K0_MONDSTADT_FAVONIUS_KNIGHT_NAME" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_K0_MONDSTADT_FAVONIUS_KNIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_K0_FAVONIUS_KNIGHT" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<!-- terrain and shit -->
+		<Replace Tag="LOC_NAMED_MOUNTAIN_STORMBEARER_MOUNTAINS" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_STORMBEARER_POINT" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_STARSNATCH_CLIFF" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_DRAGONSPINE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_ENTOMBED_CITY_ANCIENT_PALACE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_ENTOMBED_CITY_OUTSKIRTS" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_STARGLOW_CAVERN" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_SKYFROST_NAIL" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_BRIGHTCROWN_MOUNTAINS" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_NAMED_LAKE_CIDER_LAKE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_STARFELL_LAKE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_NAMED_SEA_FALCON_COAST" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		
+		
+		<!-- cities and shit -->
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_1" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_2" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_3" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_4" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_5" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_6" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_7" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_8" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_9" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_10" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_11" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_12" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_13" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_14" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_15" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_K0_MONDSTADT_16" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		
+		
+		<!-- citizens -->
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_1" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_2" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_3" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_4" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_5" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_6" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_7" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_8" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_9" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_10" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_11" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_12" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_13" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_14" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_15" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_16" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_MALE_17" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_1" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_2" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_3" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_4" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_5" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_6" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_7" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_8" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_9" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_10" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_K0_MONDSTADT_FEMALE_11" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		
+		
+		<!-- civilopedia and all that crap -->
+		<Replace Tag="LOC_CIVINFO_K0_MONDSTADT_LOCATION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_K0_MONDSTADT_SIZE" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_K0_MONDSTADT_POPULATION" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_K0_MONDSTADT_CAPITAL" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>CN_TEST</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

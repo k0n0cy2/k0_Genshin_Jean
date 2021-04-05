@@ -1,0 +1,116 @@
+-- mod by k0n0
+-- based on MC's template @ https://forums.civfanatics.com/resources/custom-civilization-modbuddy-template.28386/
+-- this hasnt actually been translated, its just my janky ass fix to the buggy ass localization
+--------------------------------------------------------------
+
+insert into LocalizedText (Language, Tag, Text)
+values  ('pt_BR', 'LOC_CIVILIZATION_K0_MONDSTADT_NAME', 'Mondstadt'),
+		('pt_BR', 'LOC_CIVILIZATION_K0_MONDSTADT_DESCRIPTION', 'Mondstadt'),
+		('pt_BR', 'LOC_CIVILIZATION_K0_MONDSTADT_ADJECTIVE', 'Mondstadt'),
+
+		('pt_BR', 'LOC_TRAIT_CIVILIZATION_K0_WIND_FREEDOM_NAME',
+			'City of Wind and Freedom'),
+		('pt_BR', 'LOC_TRAIT_CIVILIZATION_K0_WIND_FREEDOM_DESCRIPTION', 
+			'+1 [ICON_Food] Food and [ICON_Production] Production to all plains tiles.'),
+
+		('pt_BR', 'LOC_IMPROVEMENT_MONDSTADT_STATUE_SEVEN_NAME',
+			'Statue of the Seven: Anemo'),
+		('pt_BR', 'LOC_IMPROVEMENT_MONDSTADT_STATUE_SEVEN_DECRIPTION',
+			'Replaces monument. +3 [ICON_Faith] Faith, [ICON_Culture] Culture, and Loyalty per turn.'),
+
+		('pt_BR', 'LOC_UNIT_K0_MONDSTADT_FAVONIUS_KNIGHT_NAME',
+			'Favonius Knight'),
+		('pt_BR', 'LOC_UNIT_K0_MONDSTADT_FAVONIUS_KNIGHT_DESCRIPTION',
+			'Replaces swordsman. Slightly cheaper and more powerful.'),
+		('pt_BR', 'LOC_ABILITY_K0_FAVONIUS_KNIGHT',
+			'+1 [ICON_Movement] Movement when starting turn on a plains tile.'),
+
+-- terrain and shit
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_STORMBEARER_MOUNTAINS',
+			'Stormbearer Mountains'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_STORMBEARER_POINT',
+			'Stormbearer Point'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_STARSNATCH_CLIFF',
+			'Starsnatch Cliff'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_DRAGONSPINE',
+			'Dragonspine'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_ENTOMBED_CITY_ANCIENT_PALACE',
+			'Entombed City - Ancient Palace'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_ENTOMBED_CITY_OUTSKIRTS',
+			'Entombed City - Outskirts'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_STARGLOW_CAVERN',
+			'Starglow Cavern'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_SKYFROST_NAIL',
+			'Skyfrost Nail'),
+		('pt_BR', 'LOC_NAMED_MOUNTAIN_BRIGHTCROWN_MOUNTAINS',
+			'Brightcrown Mountains'),
+
+		('pt_BR', 'LOC_NAMED_LAKE_CIDER_LAKE',
+			'Cider Lake'),
+		('pt_BR', 'LOC_NAMED_LAKE_STARFELL_LAKE',
+			'Starfell Lake'),
+
+		('pt_BR', 'LOC_NAMED_SEA_FALCON_COAST',
+			'Falcon Coast'),
+
+-- cities and shit
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_1', 'Mondstadt'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_2', 'Starfell Valley'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_3', 'Whispering Woods'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_4', 'Thousand Winds Temple'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_5', 'Windrise'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_6', 'Galesong Hill'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_7', 'Dadaupa Gorge'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_8', 'Cape Oath'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_9', 'Snow-Covered Path'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_10', 'Wyrmrest Valley'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_11', 'Windwail Highland'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_12', 'Springvale'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_13', 'Dawn Winery'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_14', 'Wolvendom'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_15', 'Brightcrown Canyon'),
+		('pt_BR', 'LOC_CITY_NAME_K0_MONDSTADT_16', 'Stormterror''s Lair'),
+
+-- citizens
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_1', 'Draff'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_2', 'Timaeus'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_3', 'Stanley'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_4', 'Charles'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_5', 'Huffman'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_6', 'Timmie'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_7', 'Lawrence'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_8', 'Swan'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_9', 'Wagner'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_10', 'Schulz'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_11', 'Athos'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_12', 'Porthos'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_13', 'Wood'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_14', 'Wyratt'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_15', 'Aramis'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_16', 'Otto'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_MALE_17', 'Guy'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_1', 'Margaret'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_2', 'Blanche'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_3', 'Flora'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_4', 'Glory'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_5', 'Katheryne'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_6', 'Marjorie'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_7', 'Sara'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_8', 'Ella Musk'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_9', 'Vile'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_10', 'Ellin'),
+		('pt_BR', 'LOC_CITIZEN_K0_MONDSTADT_FEMALE_11', 'Hertha'),
+
+-- civilopedia and all that crap
+		('pt_BR', 'LOC_CIVINFO_K0_MONDSTADT_LOCATION', 'Cider Lake'),
+		('pt_BR', 'LOC_CIVINFO_K0_MONDSTADT_SIZE', '<10 km²'),
+		('pt_BR', 'LOC_CIVINFO_K0_MONDSTADT_POPULATION', '>10'),
+		('pt_BR', 'LOC_CIVINFO_K0_MONDSTADT_CAPITAL', 'Mondstadt'),
+
+		('pt_BR', 'LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_1',
+	'A city of freedom that lies in the northeast of Teyvat.'),
+		('pt_BR', 'LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_2',
+	'From amongst mountains and wide-open plains, carefree breezes carry the scent of dandelions -- a gift from the Anemo God, Barbatos -- across Cider Lake to Mondstadt, which sits on an island in the middle of the lake.'),
+		('pt_BR', 'LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_K0_MONDSTADT_CHAPTER_HISTORY_PARA_3',
+	'(From the official Genshin Impact website)');
+	

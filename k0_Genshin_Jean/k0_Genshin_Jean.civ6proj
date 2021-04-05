@@ -21,8 +21,8 @@
 </Associations>]]></AssociationData>
     <AssemblyName>k0_Genshin_Jean</AssemblyName>
     <RootNamespace>k0_Genshin_Jean</RootNamespace>
-    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Leader_Jean/Jean_Config.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Core/Civilization_Localization_CN.sql</File><File>Core/Civilization_Localization_EN.sql</File></UpdateText><UpdateText id="NewAction"><File>Leader_Jean/Jean_Localization_CN.sql</File><File>Leader_Jean/Jean_Localization_EN.sql</File></UpdateText><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/Civilization_Config.sql</File><File>Leader_Jean/Jean_Core.sql</File><File>Core/Civilization_UA.sql</File><File>Core/Civilization_UI.sql</File><File>Core/Civilization_UU.sql</File><File>Leader_Jean/Jean_UA.sql</File><File>Leader_Jean/Jean_UI.sql</File><File>Leader_Jean/Jean_Screens.sql</File></UpdateDatabase><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateText id="NewAction"><File>Core/Civilization_Localization_CN.sql</File><File>Leader_Jean/Jean_Localization_CN.sql</File><File>Core/Civilization_Localization_EN.sql</File><File>Leader_Jean/Jean_Localization_EN.sql</File></UpdateText><UpdateDatabase id="NewAction"><Criteria>Expansion2</Criteria><File>Core/Civilization_HistoricMoments.sql</File><File>Leader_Jean/Jean_HistoricMoments.sql</File></UpdateDatabase><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Leader_Jean/Jean_Config.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Localization/Civilization_Localization_BR.sql</File><File>Localization/Civilization_Localization_CN.sql</File><File>Localization/Civilization_Localization_DE.sql</File><File>Localization/Civilization_Localization_EN.sql</File><File>Localization/Civilization_Localization_ES.sql</File><File>Localization/Civilization_Localization_FR.sql</File><File>Localization/Civilization_Localization_HK.sql</File><File>Localization/Civilization_Localization_IT.sql</File><File>Localization/Civilization_Localization_JP.sql</File><File>Localization/Civilization_Localization_KR.sql</File><File>Localization/Civilization_Localization_PL.sql</File><File>Localization/Civilization_Localization_RU.sql</File></UpdateText><UpdateText id="NewAction"><File>Localization/Jean_Localization_BR.sql</File><File>Localization/Jean_Localization_CN.sql</File><File>Localization/Jean_Localization_DE.sql</File><File>Localization/Jean_Localization_EN.sql</File><File>Localization/Jean_Localization_ES.sql</File><File>Localization/Jean_Localization_FR.sql</File><File>Localization/Jean_Localization_HK.sql</File><File>Localization/Jean_Localization_IT.sql</File><File>Localization/Jean_Localization_JP.sql</File><File>Localization/Jean_Localization_KR.sql</File><File>Localization/Jean_Localization_PL.sql</File><File>Localization/Jean_Localization_RU.sql</File></UpdateText><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/Civilization_Config.sql</File><File>Leader_Jean/Jean_Core.sql</File><File>Core/Civilization_UA.sql</File><File>Core/Civilization_UI.sql</File><File>Core/Civilization_UU.sql</File><File>Leader_Jean/Jean_UA.sql</File><File>Leader_Jean/Jean_UI.sql</File><File>Leader_Jean/Jean_Screens.sql</File></UpdateDatabase><UpdateColors id="NewAction"><File>Leader_Jean/Jean_Colors.sql</File></UpdateColors><UpdateText id="NewAction"><File>Localization/Civilization_Localization_BR.sql</File><File>Localization/Jean_Localization_BR.sql</File><File>Localization/Civilization_Localization_CN.sql</File><File>Localization/Jean_Localization_CN.sql</File><File>Localization/Civilization_Localization_DE.sql</File><File>Localization/Jean_Localization_DE.sql</File><File>Localization/Civilization_Localization_EN.sql</File><File>Localization/Jean_Localization_EN.sql</File><File>Localization/Civilization_Localization_ES.sql</File><File>Localization/Jean_Localization_ES.sql</File><File>Localization/Civilization_Localization_FR.sql</File><File>Localization/Jean_Localization_FR.sql</File><File>Localization/Civilization_Localization_HK.sql</File><File>Localization/Jean_Localization_HK.sql</File><File>Localization/Civilization_Localization_IT.sql</File><File>Localization/Jean_Localization_IT.sql</File><File>Localization/Civilization_Localization_JP.sql</File><File>Localization/Jean_Localization_JP.sql</File><File>Localization/Civilization_Localization_KR.sql</File><File>Localization/Jean_Localization_KR.sql</File><File>Localization/Civilization_Localization_PL.sql</File><File>Localization/Jean_Localization_PL.sql</File><File>Localization/Civilization_Localization_RU.sql</File><File>Localization/Jean_Localization_RU.sql</File></UpdateText><UpdateDatabase id="NewAction"><Criteria>Expansion2</Criteria><File>Core/Civilization_HistoricMoments.sql</File><File>Leader_Jean/Jean_HistoricMoments.sql</File></UpdateDatabase><UpdateIcons id="Icons"><File>Icons/Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="Expansion2" /></ActionCriteria>]]></ActionCriteriaData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -85,7 +85,13 @@
     <Content Include="Leader_Jean\Jean_UI.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Localization\Civilization_Localization_BR.sql">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Localization\Civilization_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_DE.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Localization\Civilization_Localization_EN.sql">
@@ -94,13 +100,61 @@
     <Content Include="Localization\Civilization_Localization_ES.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Localization\Civilization_Localization_FR.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_HK.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_IT.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_JP.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_KR.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_PL.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_RU.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_BR.sql">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Localization\Jean_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_DE.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Localization\Jean_Localization_EN.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Localization\Jean_Localization_ES.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_FR.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_HK.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_IT.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_JP.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_KR.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_PL.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_RU.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="XLPs\CivAtlas.xlp">

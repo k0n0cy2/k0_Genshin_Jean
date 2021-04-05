@@ -36,6 +36,7 @@
     <Folder Include="Leader_Jean" />
     <Folder Include="Artdefs" />
     <Folder Include="Icons" />
+    <Folder Include="Localization" />
     <Folder Include="XLPs" />
   </ItemGroup>
   <ItemGroup>
@@ -49,12 +50,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Core\Civilization_HistoricMoments.sql">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Core\Civilization_Localization_CN.sql">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Core\Civilization_Localization_EN.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Core\Civilization_UA.sql">
@@ -84,16 +79,28 @@
     <Content Include="Leader_Jean\Jean_Core.sql">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Leader_Jean\Jean_Localization_CN.sql">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Leader_Jean\Jean_Localization_EN.sql">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Leader_Jean\Jean_UA.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Leader_Jean\Jean_UI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_EN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Civilization_Localization_ES.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_CN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_EN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Jean_Localization_ES.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="XLPs\CivAtlas.xlp">
